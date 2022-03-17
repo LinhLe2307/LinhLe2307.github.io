@@ -3,7 +3,7 @@
 - [My Portfolio](https://linhle2307.github.io/Linh_Le_Website/index.html)
 - [ToDo App](https://linhle2307.github.io/My_Todo_List/index.html)
 - [Pokedex](https://linhle2307.github.io/Pokedex/index.html)
-- [Speedgame](https://linhle2307.github.io/REACT22K_speedgame_JS/index.html)
+- [Speedgame](https://linhle2307.github.io/REACT22K_SpeedGame_JS/index.html)
 
 <!--##### GitHub about git pages:
 You can use the [editor on GitHub](https://github.com/silmu/silmu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
